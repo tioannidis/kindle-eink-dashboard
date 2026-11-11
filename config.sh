@@ -33,7 +33,7 @@ SHOW_QUOTE="1"
 
 # GitHub quote list: Quote text|Author per line (two-line files also supported).
 # Leave blank to rotate through data/quotes.txt once per day.
-QUOTE_URL="https://raw.githubusercontent.com/ddeepak95/kindle-eink-dashboard/main/data/quotes.txt"
+QUOTE_URL="https://raw.githubusercontent.com/tioannidis/kindle-eink-dashboard/main/data/quotes.txt"
 
 # Optional FBInk override. When blank, common KUAL/FBInk paths are searched.
 FBINK_PATH=""
@@ -47,5 +47,5 @@ FONT_BOLD="/usr/java/lib/fonts/Caecilia_LT_75_Bold.ttf"
 
 # Download versioned layouts during weather refresh; 0 uses the bundled layout.
 AUTO_UPDATE_LAYOUT="1"
-LAYOUT_UPDATE_URL="https://raw.githubusercontent.com/ddeepak95/kindle-eink-dashboard/main/updates"
+LAYOUT_UPDATE_URL="https://raw.githubusercontent.com/tioannidis/kindle-eink-dashboard/main/updates"
 LAYOUT_RENDER_TIMEOUT_SECONDS="45"
